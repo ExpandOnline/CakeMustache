@@ -1,0 +1,12 @@
+{
+    "name": "jelmerd/cake-mustache",
+    "type": "cakephp-plugin",
+    "description": "A simple Mustache integration for CakePHP",
+    "homepage": "http://github.com/JelmerD/CakeMustache",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.2.8",
+        "composer/installers": "*",
+        "mustache/mustache": "~2.5"
+    }
+}
