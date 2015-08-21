@@ -1,8 +1,8 @@
 {
-    "name": "jelmerd/cake-mustache",
+    "name": "ExpandOnline/CakeMustache",
     "type": "cakephp-plugin",
     "description": "A simple Mustache integration for CakePHP",
-    "homepage": "http://github.com/JelmerD/CakeMustache",
+    "homepage": "http://github.com/ExpandOnline/CakeMustache",
     "license": "MIT",
     "require": {
         "php": ">=5.2.8",
